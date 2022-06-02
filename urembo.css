@@ -1,0 +1,60 @@
+
+.body{
+    background-image: url("images/aesthetic-winter-landscape-1mbhrurfuvlbakqy.jpg");
+    height: 80vh;
+    width: fit-content;
+}
+.div1{
+    background-image: url("images/aesthetic-winter-landscape-1mbhrurfuvlbakqy.jpg");
+    height: 50vh;
+    width: 100%;
+}
+.div2{
+    background-color: white;
+    height: 70vh;
+    width: 100vw;
+}
+.div3{
+    background-color: #ffe8a1;
+    height: 30vh;
+    width: 100vw;
+    place-self: center;
+}
+.x{
+    background-color: deeppink;
+    color: white;
+    border-radius: 16px;
+    margin-left: 400px;
+}
+.y{
+    background-color: deeppink;
+    color: white;
+    border-radius: 16px;
+    border: unset;
+    margin-left: 400px;
+}
+.a{
+    background-color: darkcyan;
+    height: 80vh;
+    color: white;
+}
+.b{
+    background-color: white;
+    height: 80vh;
+    color: darkcyan;
+}
+.c{
+    background-color: darkcyan;
+    border-radius: 16px;
+    color: white;
+    border: white;
+    margin-left: 130px;
+}
+.signup{
+    background-color: white;
+    border-radius: 16px;
+    color: darkcyan;
+    border: darkcyan;
+    margin-left: 50px;
+}
+
